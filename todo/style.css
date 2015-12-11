@@ -1,0 +1,71 @@
+#main{
+	margin-left: auto;
+	margin-right: auto;
+	width: 500px;
+	font-family: 'Lato', sans-serif;
+
+}
+
+
+body{
+	background-color: #e0f2f1;
+	width: 600px;
+    margin: 0 auto;
+}
+
+
+
+h1{
+	font-size: 120px;
+	color: #fce4ec;
+	text-align: center;
+
+}
+
+
+#liste li{
+	border: 1px solid grey;
+	list-style-type: none;
+	background-color: white;
+	font-family: 'Lato', sans-serif;
+	line-height: 50px;
+
+}
+
+input{
+	font-style: italic;
+	line-height: 1.2; font-size:30px;
+	
+
+}
+
+
+
+ul{
+	line-height: 1.2; font-size:18px;
+	padding: 0;
+	margin:0;
+}
+
+
+#listeb li
+{
+display: inline;
+font-family: 'Lato', sans-serif;
+margin:10px;
+}
+
+
+
+.fait 
+{ 
+width: 100%;
+text-decoration: line-through;
+
+}
+
+#remplir
+{
+	width: 99%;
+}
+
