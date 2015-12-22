@@ -11,4 +11,12 @@ $(document).ready(function(){
 
 	});
 
+	/* 
+	Pour la suite, c'est la même logique :
+	- ajouter un listener à un bouton (en le sélectionnant par son id)
+	- dans la 'function(){ ... }' (qu'on appelle le callback), ajouter
+	les choses à faire : montrer tels éléments, cacher ceux là...
+	Toujours en sélectionnant les éléments grâce à leur classe, type ou id.
+	*/
+
 });
